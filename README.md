@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science degree
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me throw telegram using this user name https://t.me/Index_012
+- 📫 How to reach me throw telegram using this username https://t.me/Yakobe1
 - 😄 Pronouns: Yakobe
 - ⚡ Fun fact: 
 
