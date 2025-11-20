@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Yakob-B
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science degree
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me throw telegram using this username https://t.me/Yakobe1
-- 😄 Pronouns: Yakobe
-- ⚡ Fun fact: 
+# Hi there, I'm Yakob 👋
+**Junior Full Stack Developer | MERN + Android (Kotlin)**  
+Ambo University • Ethiopia
 
-<!---
-Yakob-B/Yakob-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Building production-ready apps  
+🌱 Learning TypeScript, Docker, System Design  
+💼 Open to remote/full-time roles
+
+### 🚀 Featured Projects
+[![Rentify](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=Rentify&theme=dark)](https://github.com/Yakob-B/Rentify)
+[![AUGCVS](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUGCVS&theme=dark)](https://github.com/Yakob-B/AUGCVS)
+
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,vercel,kotlin,androidstudio,docker&perline=6&theme=dark"/>
+
+### 📊 GitHub Stats
+![Yakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakob-B&theme=dark&show_icons=true&count_private=true)
+
+### 📌 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-yakoba--dev-dusky.vercel.app-blue?style=flat&logo=vercel)](https://yakoba-dev-dusky.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yakob_Bekuma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yakobb)
