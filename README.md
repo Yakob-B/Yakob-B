@@ -29,5 +29,5 @@ Ambo University • Ethiopia
 ![Yakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakob-B&theme=dark&show_icons=true&count_private=true)
 
 ### 📌 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-yakoba--dev-dusky.vercel.app-blue?style=flat&logo=vercel)](https://yakoba-dev-dusky.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Blue-blue?style=flat&logo=vercel)](https://yakoba-dev-dusky.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yakob_Bekuma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yakobb)
