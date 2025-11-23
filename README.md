@@ -9,7 +9,7 @@ Ambo University • Ethiopia
 ### 🚀 Featured Projects
 [![Rentify](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=Rentify&theme=dark)](https://github.com/Yakob-B/Rentify)
 [![AUGCVS](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUGCVS&theme=dark)](https://github.com/Yakob-B/AUGCVS)
-[![HHC Portal](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=ambo-hhc-portal&theme=tokyonight)](https://github.com/Yakob-B/ambo-hhc-portal)
+[![HHC Portal](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUHHC-portal&theme=tokyonight)](https://github.com/Yakob-B/AUHHC-portal)
 
 ### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,vercel,kotlin,androidstudio,docker&perline=6&theme=dark"/>
