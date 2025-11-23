@@ -1,5 +1,5 @@
 # Hi there, I'm Yakob 👋
-** Full Stack Developer | MERN + Android (Kotlin)**  
+ Full Stack Developer | MERN + Android (Kotlin)
 Ambo University • Ethiopia
 
 🔭 Building production-ready apps  
