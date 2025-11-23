@@ -11,7 +11,7 @@ Ambo University • Ethiopia
 
 #### Rentify
 [![Rentify](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=Rentify&theme=dark)](https://github.com/Yakob-B/Rentify)  
-*Universal rental platform (MERN) – JWT auth, Cloudinary uploads, role-based booking • Live: rentify.yakobdev.xyz*
+*Universal rental platform (MERN) – JWT auth, Cloudinary uploads, role-based booking • Live: rentify-orcin-five.vercel.app*
 
 #### AUGCVS
 [![AUGCVS](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUGCVS&theme=dark)](https://github.com/Yakob-B/AUGCVS)  
