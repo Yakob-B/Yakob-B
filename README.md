@@ -7,9 +7,22 @@ Ambo University • Ethiopia
 💼 Open to remote/full-time roles
 
 ### 🚀 Featured Projects
-[![Rentify](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=Rentify&theme=dark)](https://github.com/Yakob-B/Rentify)
-[![AUGCVS](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUGCVS&theme=dark)](https://github.com/Yakob-B/AUGCVS)
-[![HHC Portal](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUHHC-portal&theme=tokyonight)](https://github.com/Yakob-B/AUHHC-portal)
+
+<div align="center">
+
+#### Rentify
+[![Rentify](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=Rentify&theme=dark)](https://github.com/Yakob-B/Rentify)  
+*Universal rental platform (MERN) – JWT auth, Cloudinary uploads, role-based booking • Live: rentify.yakobdev.xyz*
+
+#### AUGCVS
+[![AUGCVS](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUGCVS&theme=dark)](https://github.com/Yakob-B/AUGCVS)  
+*Ambo University Capstone (MERN + Socket.IO) – Secure QR credential verification, real-time notifications • Live: augcvs.yakobdev.xyz*
+
+#### HHC Portal
+[![HHC Portal](https://github-readme-stats.vercel.app/api/pin/?username=Yakob-B&repo=AUHHC-portal&theme=dark)](https://github.com/Yakob-B/AUHHC-portal)  
+*Ambo University HHC Department Portal (React + Tailwind) – Fully responsive, 100/100 Lighthouse • Live: hhc.yakobdev.xyz*
+
+</div>
 
 ### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,vercel,kotlin,androidstudio,docker&perline=6&theme=dark"/>
